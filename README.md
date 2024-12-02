@@ -20,8 +20,8 @@ How to reach me aimanziacs@gmail.com
 
 <h3 align="center">Coding Profiles</h3>
 <p align="center">
-<a href="https://www.hackerrank.com/kishlaya1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kishlaya1999" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kishlaya99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kishlaya99" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/_Aiman_zia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AimanZia" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/aimanzia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kishlaya99" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
@@ -75,12 +75,12 @@ How to reach me aimanziacs@gmail.com
 
 <!-- ![Kishlaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kishlaya1999&show_icons=true&theme=highcontrast) -->
 
-<table>
+<!--<table>
   <tr>
     <td style="padding:0 1px" valign="top"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kishlaya1999&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&sideLabels=0AEAFF&fire=FF5A00"/></td>
     <td style="padding:0 1px" valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Kishlaya1999&show_icons=true&theme=highcontrast"/></td>
   </tr>
-</table>
+</table>-->
 
 <!-- ## Github Contributions 📈
 
