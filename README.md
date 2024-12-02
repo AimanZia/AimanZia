@@ -15,12 +15,11 @@ How to reach me aimanziacs@gmail.com
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/kishlaya1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishlaya1999" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aiman-zia09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AimanZia" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Coding Profiles</h3>
 <p align="center">
-<a href="https://cssbattle.dev/player/kishlaya1999" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png" alt="kishlaya99" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/kishlaya1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kishlaya1999" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kishlaya99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kishlaya99" height="30" width="40" /></a>
 </p>
